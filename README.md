@@ -11,8 +11,9 @@ Flutter is Google’s UI toolkit for building beautiful, natively compiled appli
 
 Day 1 [I Am Poor App](https://github.com/iamhashimirfan/100DaysofFlutter/tree/master/i_am_poor/).
 
+<img src="https://raw.githubusercontent.com/iamhashimirfan/100DaysofFlutter/master/resources/flutter_layout_challenge.png" width="50" height="50" />
 
-Day 2 [Flutter Layout Challenge]().
+Day 2 [Flutter Layout Challenge](https://github.com/iamhashimirfan/100DaysofFlutter/tree/master/flutter_layouts_challenge).
 
 
 
