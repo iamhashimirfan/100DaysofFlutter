@@ -18,7 +18,7 @@ Day 2 [Flutter Layout Challenge](https://github.com/iamhashimirfan/100DaysofFlut
 
 <img src="https://raw.githubusercontent.com/iamhashimirfan/100DaysofFlutter/master/resources/mi_card.png" width="50" height="50" />
 
-Day 3 [Mi Card]().
+Day 3 [Mi Card](https://github.com/iamhashimirfan/100DaysofFlutter/tree/master/mi_card).
 
 
 
