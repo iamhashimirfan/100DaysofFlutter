@@ -23,7 +23,7 @@ Day 3 [Mi Card](https://github.com/iamhashimirfan/100DaysofFlutter/tree/master/m
 
 <img src="https://raw.githubusercontent.com/iamhashimirfan/100DaysofFlutter/master/resources/ic_launcher-web.png" width="50" height="50" />
 
-Day 3 [Mi Card](https://github.com/iamhashimirfan/100DaysofFlutter/tree/master/dicee-flutter).
+Day 4 [Dicee](https://github.com/iamhashimirfan/100DaysofFlutter/tree/master/dicee-flutter).
 
 
 
