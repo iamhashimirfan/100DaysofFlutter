@@ -25,6 +25,11 @@ Day 3 [Mi Card](https://github.com/iamhashimirfan/100DaysofFlutter/tree/master/m
 
 Day 4 [Dicee](https://github.com/iamhashimirfan/100DaysofFlutter/tree/master/dicee-flutter).
 
+<img src="https://raw.githubusercontent.com/iamhashimirfan/100DaysofFlutter/master/resources/day5.png" width="50" height="50" />
+
+Day 5 [Magic 8 Ball](https://github.com/iamhashimirfan/100DaysofFlutter/tree/master/magic-8-ball-flutter).
+
+
 
 
 
