@@ -29,6 +29,10 @@ Day 4 [Dicee](https://github.com/iamhashimirfan/100DaysofFlutter/tree/master/dic
 
 Day 5 [Magic 8 Ball](https://github.com/iamhashimirfan/100DaysofFlutter/tree/master/magic-8-ball-flutter).
 
+<img src="https://raw.githubusercontent.com/iamhashimirfan/100DaysofFlutter/master/resources/ic_launcher-web.png" width="50" height="50" />
+
+Day 6 [Xylophone](https://github.com/iamhashimirfan/100DaysofFlutter/tree/master/xylophone-flutter).
+
 
 
 
